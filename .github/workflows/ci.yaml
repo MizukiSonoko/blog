@@ -2,8 +2,7 @@ name: Deploy mizuki blog to GitHub Pages
  
 on:
   push:
-    branches:
-      - publish
+    branches: [ "publish" ]
  
 permissions:
   contents: read
