@@ -6,7 +6,7 @@ const config: QuartzConfig = {
     pageTitle: "🍣 Mizuki Memo",
     enableSPA: true,
     enablePopovers: true,
-    analytics: { provider: 'google', tagId: 'G-JX3RGYKRGH' },
+    analytics: { provider: 'google', tagId: 'G-19T6B5YCZG' },
     baseUrl: "blog.mizuki.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
